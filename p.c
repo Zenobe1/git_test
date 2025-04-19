@@ -3,6 +3,6 @@
 int main() {
 	printf("Hello World!");
 	printf("Hello Germany!");
-	printf("Hello Australia!");
+	printf("Hello Australia and Austria!");
 	return 0;
 }
